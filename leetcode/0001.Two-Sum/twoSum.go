@@ -1,4 +1,4 @@
-package leetcode
+package _001_Two_Sum
 
 /**
 题目链接:https://leetcode-cn.com/problems/two-sum/
