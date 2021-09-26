@@ -1,8 +1,8 @@
 package _704_Binary_Search
 
 /**
-题目链接:https://leetcode-cn.com/problems/binary-search/
-*/
+ * 题目链接:https://leetcode-cn.com/problems/binary-search/
+ */
 
 func search(nums []int, target int) int {
 	low, high := 0, len(nums)-1
