@@ -1,5 +1,8 @@
 package _977_Squares_Of_A_Sorted_Array
 
+/**
+ * 题目链接: https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+ */
 func sortedSquares(nums []int) []int {
 	n := len(nums)
 	left, right := 0, n-1
